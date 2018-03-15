@@ -1,0 +1,18 @@
+Homework 2, question 1
+Training objective function,-118.46700323693375
+Test accuracy (decimal number between 0 and 1),0.8928571428571429
+Training computing time,0.050523996353149414
+Function evaluations,6
+Gradient evaluations,6
+Homework 2, question 2
+Training objective function,-118.46699032680002
+Test accuracy (decimal number between 0 and 1),0.8928571428571429
+Training computing time,0.2872283458709717
+Function evaluations,665
+Gradient evaluations,665
+Homework 2, question 3
+Training objective function,-118.46700623421381
+Test accuracy (decimal number between 0 and 1),0.8928571428571429
+Training computing time,0.19894742965698242
+Function evaluations,647
+Gradient evaluations,647

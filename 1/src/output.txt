@@ -1,0 +1,36 @@
+Homework1, question 1, point 1
+Training objective function,0.003930337727069855
+Test MSE,0.004787951707839966
+Training computing time,1.824199914932251 
+Num. function evaluation,1970 
+Num. gradient evaluation,n.a.
+Homework1, question 1, point 2
+Training objective function,0.0030563300825922086
+Test MSE,0.005244438892741687
+Training computing time,3.6184632778167725 
+Num. function evaluation,3856
+Num. gradient evaluation,n.a
+Homework1, question 2, point 1
+Training objective function,0.019544141367077827
+Test MSE,0.01647244580090046
+Training computing time,0.5306344032287598 
+Num. function evaluation,595 
+Num. gradient evaluation,584 
+Homework1, question 2, point 2
+Training objective function,0.006021278646810652
+Test MSE,0.010344818516054564
+Training computing time,0.09916996955871582 
+Num. function evaluation,103
+Num. gradient evaluation,13
+Homework1, question 3, MLP
+Training objective function,0.00466937618330121
+Test MSE,0.006977633107453585
+Training computing time,3.08095383644104 
+Num. function evaluation,3705 
+Num. gradient evaluation,n.a.
+Homework1, question 3, RBF
+Training objective function,0.004095528901395945
+Test MSE,0.004984401165511407
+Training computing time,2.520914316177368 
+Num. function evaluation,1329
+Num. gradient evaluation,n.a.
